@@ -1,5 +1,5 @@
 # Chat-App
-A chat application made using Node.js, Socket.io and basic front end elements (HTML, CSS, ES6). 
+A chat application made using Node.js (Express), Socket.io and basic front end elements (HTML, CSS, ES6). 
 
 [It was made following the tutorial in this video](https://www.youtube.com/watch?v=jD7FnbI76Hg)
 
